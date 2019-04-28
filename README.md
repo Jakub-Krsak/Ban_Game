@@ -7,7 +7,8 @@ https://www.python.org/downloads/windows/
 A pre MAC OS X tu:
 https://www.python.org/downloads/mac-osx/
 
-Hra využíva knižnicu pygame, takže ju potrebujete najprv nainštalovať: https://www.pygame.org/wiki/GettingStarted#Pygame%20Installation
+Hra využíva ešte knižnicu PyGame, takže ju potrebujete najprv nainštalovať, na stránke je inštalácia aj pre WINDOWS aj pre MAC OS X:
+https://www.pygame.org/wiki/GettingStarted#Pygame%20Installation
 
 Ak by niečo nebolo jasné, kľudne vytvorte issue s popisom problému.
 
